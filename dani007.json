@@ -400,5 +400,11 @@
         "key": "oaKVYhWNZX",
         "expirydate": "26-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "643472b12c2aa6ec",
+        "key": "Mh6kl2xiPo",
+        "expirydate": "26-08-2032",
+        "Allowoffline": false
     }
 ]
