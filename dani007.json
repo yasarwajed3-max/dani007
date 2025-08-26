@@ -160,5 +160,11 @@
         "key": "OCdXYl6nuN",
         "expirydate": "26-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e52e0e2648699c3a",
+        "key": "ZdgGo54tfs",
+        "expirydate": "26-11-2033",
+        "Allowoffline": false
     }
 ]
