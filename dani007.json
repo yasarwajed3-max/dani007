@@ -178,5 +178,11 @@
         "key": "S39l4Tomht",
         "expirydate": "26-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "03a7ef422f0b5276",
+        "key": "poMKQalS4Y",
+        "expirydate": "26-11-2033",
+        "Allowoffline": false
     }
 ]
