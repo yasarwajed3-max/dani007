@@ -280,5 +280,11 @@
         "key": "hkd5EZOCcX",
         "expirydate": "26-05-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fcde968f26db78d6",
+        "key": "1TvRJSXMl7",
+        "expirydate": "26-12-2031",
+        "Allowoffline": false
     }
 ]
