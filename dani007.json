@@ -172,5 +172,11 @@
         "key": "NBpALjngf2",
         "expirydate": "26-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "10a0752886c752f9",
+        "key": "S39l4Tomht",
+        "expirydate": "26-11-2033",
+        "Allowoffline": false
     }
 ]
