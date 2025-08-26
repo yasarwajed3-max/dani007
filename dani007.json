@@ -154,5 +154,11 @@
         "key": "6eiXKnATRO",
         "expirydate": "26-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ea14344895871347",
+        "key": "OCdXYl6nuN",
+        "expirydate": "26-11-2033",
+        "Allowoffline": false
     }
 ]
