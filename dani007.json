@@ -646,5 +646,11 @@
         "key": "uPod4ThC6R",
         "expirydate": "26-07-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "abcb09d643770e9e",
+        "key": "zoS3pXlr0q",
+        "expirydate": "26-06-2029",
+        "Allowoffline": false
     }
 ]
