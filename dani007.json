@@ -34,5 +34,11 @@
         "key": "rNH40E71iR",
         "expirydate": "26-02-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "65e07ef647bd00f8",
+        "key": "m4uwhPMo1S",
+        "expirydate": "26-01-2032",
+        "Allowoffline": false
     }
 ]
