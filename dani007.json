@@ -370,5 +370,11 @@
         "key": "hX5k7n8b2F",
         "expirydate": "26-10-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1efc11942b3146d8",
+        "key": "diGE1PgKSM",
+        "expirydate": "26-11-2033",
+        "Allowoffline": false
     }
 ]
