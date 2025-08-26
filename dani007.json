@@ -700,5 +700,11 @@
         "key": "XwvdrmA7By",
         "expirydate": "26-04-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a8b284b39a9a2016",
+        "key": "axdC7nFVJl",
+        "expirydate": "26-10-2031",
+        "Allowoffline": false
     }
 ]
