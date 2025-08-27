@@ -934,5 +934,11 @@
         "key": "Vst3gDx7aP",
         "expirydate": "27-11-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ef0d434f2f2ae1b8",
+        "key": "RgzA2J7WMS",
+        "expirydate": "27-11-2031",
+        "Allowoffline": false
     }
 ]
