@@ -760,5 +760,11 @@
         "key": "Hv7D63rNca",
         "expirydate": "27-12-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9871b3ed06c0922d",
+        "key": "KESG3dIbBQ",
+        "expirydate": "27-09-2030",
+        "Allowoffline": false
     }
 ]
