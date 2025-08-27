@@ -922,5 +922,11 @@
         "key": "cT98wdbXOY",
         "expirydate": "27-09-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "aadf3862463c1f60",
+        "key": "IAK8PF7DJy",
+        "expirydate": "27-09-2032",
+        "Allowoffline": false
     }
 ]
