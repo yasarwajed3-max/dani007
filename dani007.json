@@ -1084,5 +1084,11 @@
         "key": "FdeqiQUuRE",
         "expirydate": "28-08-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3e47de37bc98aba7",
+        "key": "flXSkEhQK6",
+        "expirydate": "28-11-2031",
+        "Allowoffline": false
     }
 ]
