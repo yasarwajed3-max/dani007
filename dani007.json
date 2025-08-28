@@ -1054,5 +1054,11 @@
         "key": "x7ZgBHIXKs",
         "expirydate": "28-07-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b1676c0cb3bc59e7",
+        "key": "0sbkaHZlPD",
+        "expirydate": "28-11-2031",
+        "Allowoffline": false
     }
 ]
