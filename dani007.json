@@ -994,5 +994,11 @@
         "key": "vSMZIP0W9o",
         "expirydate": "28-06-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dca360dbf140538b",
+        "key": "23VO05uRFa",
+        "expirydate": "28-12-2030",
+        "Allowoffline": false
     }
 ]
