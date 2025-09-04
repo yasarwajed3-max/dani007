@@ -1372,5 +1372,11 @@
         "key": "EMb2DSGP0A",
         "expirydate": "04-09-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "af9876a04c228993",
+        "key": "nDOHU6xTFz",
+        "expirydate": "04-06-2030",
+        "Allowoffline": false
     }
 ]
