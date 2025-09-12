@@ -1522,5 +1522,11 @@
         "key": "94IVaAEYep",
         "expirydate": "11-02-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e1cf6727baf74d9c",
+        "key": "USiXaep6gd",
+        "expirydate": "12-10-2030",
+        "Allowoffline": false
     }
 ]
