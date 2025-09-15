@@ -1570,5 +1570,11 @@
         "key": "UAKWlDVw17",
         "expirydate": "14-09-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5e397a677a71f2ba",
+        "key": "Dwuglpmk8O",
+        "expirydate": "15-12-2033",
+        "Allowoffline": false
     }
 ]
