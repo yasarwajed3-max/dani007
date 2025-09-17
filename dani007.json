@@ -1642,5 +1642,11 @@
         "key": "TFRLIS7hBC",
         "expirydate": "17-12-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3738312ca77a3e20",
+        "key": "vbyAnmJuMX",
+        "expirydate": "17-02-2032",
+        "Allowoffline": false
     }
 ]
