@@ -1714,5 +1714,11 @@
         "key": "ca2VTYzkZ3",
         "expirydate": "19-03-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cd96435b1aa9eed6",
+        "key": "8E7LuD3Zc5",
+        "expirydate": "19-07-2029",
+        "Allowoffline": false
     }
 ]
