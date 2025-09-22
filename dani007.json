@@ -1792,5 +1792,11 @@
         "key": "jcFl4RYXIT",
         "expirydate": "22-02-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "45c0d727129cfcc4",
+        "key": "bWrK08m4aG",
+        "expirydate": "22-12-2032",
+        "Allowoffline": false
     }
 ]
