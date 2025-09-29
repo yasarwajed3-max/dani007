@@ -1906,5 +1906,11 @@
         "key": "67TMaCAR0p",
         "expirydate": "29-02-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "86d9edd25dc56e45",
+        "key": "HciP5uenl4",
+        "expirydate": "29-03-2031",
+        "Allowoffline": false
     }
 ]
