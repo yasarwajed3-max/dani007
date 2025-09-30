@@ -1960,5 +1960,11 @@
         "key": "UOTIHuDlfh",
         "expirydate": "30-03-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "aab199ac343da7f3",
+        "key": "Bi0pUOAEjz",
+        "expirydate": "30-10-2032",
+        "Allowoffline": false
     }
 ]
