@@ -1972,5 +1972,11 @@
         "key": "IHVdTQCLuD",
         "expirydate": "01-03-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "358a674d7ad90749",
+        "key": "nwNZH4iF8v",
+        "expirydate": "01-03-2032",
+        "Allowoffline": false
     }
 ]
