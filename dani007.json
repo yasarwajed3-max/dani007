@@ -1978,5 +1978,11 @@
         "key": "nwNZH4iF8v",
         "expirydate": "01-03-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "85594f74842ae0ee",
+        "key": "Lh78YRA5zN",
+        "expirydate": "01-02-2033",
+        "Allowoffline": false
     }
 ]
