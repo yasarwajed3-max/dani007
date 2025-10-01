@@ -1984,5 +1984,11 @@
         "key": "Lh78YRA5zN",
         "expirydate": "01-02-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fca0fcc1c78d83b6",
+        "key": "21agprdRt3",
+        "expirydate": "01-02-2033",
+        "Allowoffline": false
     }
 ]
