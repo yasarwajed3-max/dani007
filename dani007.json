@@ -12,14 +12,12 @@
         "Allowoffline": false
     },
     {
-    
         "device_id": "8d1e0dabef723a1f",
         "key": "amir01",
         "expirydate": "15-06-2033",
         "Allowoffline": false
     },
     {
-    
         "device_id": "b68f6313e54e96e3",
         "key": "byofbar",
         "expirydate": "15-06-2033",
@@ -2033,6 +2031,12 @@
         "device_id": "880d4e235e24a641",
         "key": "yWHmpPYlva",
         "expirydate": "03-03-2032",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0408ce3ac0399f16",
+        "key": "cNV8DYHgLf",
+        "expirydate": "04-02-2033",
         "Allowoffline": false
     }
 ]
