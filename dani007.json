@@ -8,12 +8,19 @@
     {
         "device_id": "device456",
         "key": "key67890",
-        "expirydate": "15-06-2025",
+        "exp{irydate": "15-06-2025",
         "Allowoffline": false
     },
-    {
+    
         "device_id": "8d1e0dabef723a1f",
         "key": "amir01",
+        "expirydate": "15-06-2033",
+        "Allowoffline": false
+    },
+    }
+    
+        "device_id": "b68f6313e54e96e3",
+        "key": "byofbar",
         "expirydate": "15-06-2033",
         "Allowoffline": false
     },
